@@ -13,7 +13,7 @@ export const Navbar = () => {
             <span className="navbar-brand">
                 <i className="fas fa-calendar-alt"></i>
                 &nbsp;
-                Calendario de {user.name}
+                Calendario colaborativo - {user.name}
             </span>
 
             <button 

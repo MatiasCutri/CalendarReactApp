@@ -57,3 +57,16 @@
   width: 70px;
   height: 70px;
 }
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form-group .react-datepicker-wrapper {
+  width: 100%;
+}
+
+.form-group .react-datepicker__input-container input {
+  width: 100%;
+}

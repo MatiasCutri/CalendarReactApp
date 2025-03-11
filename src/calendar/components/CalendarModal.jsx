@@ -23,6 +23,7 @@ const customStyles = {
 
 Modal.setAppElement('#root');
 
+
 export const CalendarModal = () => {
     const { user } = useAuthStore();
 
